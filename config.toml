@@ -1,8 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://noid11.github.io/saml2specjp/"
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 title = "Japanese SAML 2.0 specifications"
 theme = "docport"
+publishDir = "docs"
 
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
