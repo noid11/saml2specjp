@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://noid11.github.io/saml2specjp/specs/saml-core/</loc>
+    <lastmod>2020-09-14T05:29:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noid11.github.io/saml2specjp/</loc>
+    <lastmod>2020-09-14T05:29:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noid11.github.io/saml2specjp/specs/</loc>
+    <lastmod>2020-09-14T05:29:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noid11.github.io/saml2specjp/specs/saml-tech-overview/</loc>
+    <lastmod>2020-09-14T04:23:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://noid11.github.io/saml2specjp/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://noid11.github.io/saml2specjp/tags/</loc>
+  </url>
+  
+</urlset>

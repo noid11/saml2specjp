@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Japanese SAML 2.0 specifications</title>
+    <link>https://noid11.github.io/saml2specjp/specs/</link>
+    <description>Recent content on Japanese SAML 2.0 specifications</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 14 Sep 2020 05:29:32 +0900</lastBuildDate>
+    
+	<atom:link href="https://noid11.github.io/saml2specjp/specs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
